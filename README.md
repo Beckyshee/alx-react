@@ -1,1 +1,1 @@
-react for beginners all the way to react advanced stuff
+Everything you need to know about react from beginner to advanced level.
