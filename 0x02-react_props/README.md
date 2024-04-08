@@ -8,5 +8,5 @@
 - How to use Fragments
 - When to use a key to improve a loop’s performance
 
-## Resources
--  [React Official Website](https://reactjs.org/)
+## Resources - Go through the react documentation 
+-   [React Official Website](https://reactjs.org/)
